@@ -1,0 +1,500 @@
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_account_preference_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table account_preference_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_account_user_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table account_user_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_account_user_permission_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table account_user_permission_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_accounts
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table accounts
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_acls
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table acls
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_acls_channel
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table acls_channel
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_ad_category_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table ad_category_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_ad_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table ad_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_affiliates
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table affiliates
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_affiliates_extra
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table affiliates_extra
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_agency
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table agency
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_application_variable
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table application_variable
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_audit
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table audit
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_banners
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table banners
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_campaigns
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table campaigns
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_campaigns_trackers
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table campaigns_trackers
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_category
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table category
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_channel
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table channel
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_clients
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table clients
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_intermediate_ad
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_intermediate_ad
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_intermediate_ad_connection
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_intermediate_ad_connection
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_intermediate_ad_variable_value
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_intermediate_ad_variable_value
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_raw_ad_click
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_raw_ad_click
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_raw_ad_impression
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_raw_ad_impression
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_raw_ad_request
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_raw_ad_request
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_raw_tracker_impression
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_raw_tracker_impression
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_raw_tracker_variable_value
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_raw_tracker_variable_value
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_summary_ad_hourly
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_summary_ad_hourly
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_summary_ad_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_summary_ad_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_summary_channel_daily
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_summary_channel_daily
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_data_summary_zone_impression_history
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table data_summary_zone_impression_history
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_images
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table images
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_log_maintenance_forecasting
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table log_maintenance_forecasting
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_log_maintenance_priority
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table log_maintenance_priority
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_log_maintenance_statistics
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table log_maintenance_statistics
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_password_recovery
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table password_recovery
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_placement_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table placement_zone_assoc
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_preferences
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table preferences
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_session
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table session
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_targetstats
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table targetstats
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_tracker_append
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table tracker_append
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_trackers
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table trackers
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_userlog
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table userlog
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_users
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table users
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_variable_publisher
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table variable_publisher
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_variables
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table variables
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop table rv_zones
+Jul 12 11:58:23 +0000 OX-66911a5f7a35c [    error]  Unable to drop the table zones
+Jul 12 11:58:46 +0000 OX-plugins-66911a76eee8a [     info]  starting _checkPackageContents openXBannerTypes.xml
+Jul 12 11:58:46 +0000 OX-plugins-66911a76eee8a [     info]  expecting definition openXBannerTypes.xml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  detected plugin definition file /plugins/etc/openXBannerTypes.xml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  detected group definition file /plugins/etc/oxHtml/oxHtml.xml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  detected group definition file /plugins/etc/oxText/oxText.xml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkOpenXCompatibility for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkSystemEnvironment for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkDatabaseEnvironment for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _runScript for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkDependenciesForInstallOrEnable for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkFiles for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkNavigationCheckers for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkMenus for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerSchema for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerPreferences for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerSettings for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing disableComponentGroup for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerPluginVersion for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _runScript for oxHtml
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkOpenXCompatibility for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkSystemEnvironment for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkDatabaseEnvironment for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _runScript for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkDependenciesForInstallOrEnable for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkFiles for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkNavigationCheckers for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _checkMenus for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerSchema for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerPreferences for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerSettings for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing disableComponentGroup for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _registerPluginVersion for oxText
+Jul 12 11:58:47 +0000 OX-plugins-66911a76eee8a [     info]  Executing _runScript for oxText
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  starting _checkPackageContents openXDeliveryLimitations.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  expecting definition openXDeliveryLimitations.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  detected group definition file /plugins/etc/Time/Time.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  detected plugin definition file /plugins/etc/openXDeliveryLimitations.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  detected group definition file /plugins/etc/Site/Site.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  detected group definition file /plugins/etc/Client/Client.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  detected group definition file /plugins/etc/Geo/Geo.xml
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkOpenXCompatibility for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkSystemEnvironment for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDatabaseEnvironment for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDependenciesForInstallOrEnable for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkFiles for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkNavigationCheckers for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkMenus for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSchema for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPreferences for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSettings for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing disableComponentGroup for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPluginVersion for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Client
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkOpenXCompatibility for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkSystemEnvironment for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDatabaseEnvironment for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDependenciesForInstallOrEnable for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkFiles for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkNavigationCheckers for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkMenus for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSchema for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPreferences for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSettings for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing disableComponentGroup for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPluginVersion for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Geo
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkOpenXCompatibility for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkSystemEnvironment for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDatabaseEnvironment for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDependenciesForInstallOrEnable for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkFiles for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkNavigationCheckers for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkMenus for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSchema for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPreferences for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSettings for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing disableComponentGroup for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPluginVersion for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Site
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkOpenXCompatibility for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkSystemEnvironment for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDatabaseEnvironment for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkDependenciesForInstallOrEnable for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkFiles for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkNavigationCheckers for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _checkMenus for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSchema for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPreferences for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerSettings for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing disableComponentGroup for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _registerPluginVersion for Time
+Jul 12 11:58:49 +0000 OX-plugins-66911a79909cc [     info]  Executing _runScript for Time
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  starting _checkPackageContents openXReports.xml
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  expecting definition openXReports.xml
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  detected plugin definition file /plugins/etc/openXReports.xml
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  detected group definition file /plugins/etc/oxReportsStandard/oxReportsStandard.xml
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  detected group definition file /plugins/etc/oxReportsAdmin/oxReportsAdmin.xml
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkOpenXCompatibility for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkSystemEnvironment for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkDatabaseEnvironment for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _runScript for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkFiles for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkNavigationCheckers for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkMenus for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerSchema for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerPreferences for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerSettings for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing disableComponentGroup for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerPluginVersion for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _runScript for oxReportsStandard
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkOpenXCompatibility for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkSystemEnvironment for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkDatabaseEnvironment for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _runScript for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkFiles for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkNavigationCheckers for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _checkMenus for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerSchema for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerPreferences for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerSettings for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing disableComponentGroup for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _registerPluginVersion for oxReportsAdmin
+Jul 12 11:58:52 +0000 OX-plugins-66911a7c4d79a [     info]  Executing _runScript for oxReportsAdmin
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  starting _checkPackageContents openXDeliveryCacheStore.xml
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  expecting definition openXDeliveryCacheStore.xml
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  detected group definition file /plugins/etc/oxMemcached/oxMemcached.xml
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  detected plugin definition file /plugins/etc/openXDeliveryCacheStore.xml
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  detected group definition file /plugins/etc/oxCacheFile/oxCacheFile.xml
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkOpenXCompatibility for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkSystemEnvironment for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkDatabaseEnvironment for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _runScript for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkDependenciesForInstallOrEnable for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkFiles for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkNavigationCheckers for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkMenus for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerSchema for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerPreferences for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerSettings for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing disableComponentGroup for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerPluginVersion for oxCacheFile
+Jul 12 11:58:54 +0000 OX-plugins-66911a7eed8de [     info]  Executing _runScript for oxCacheFile
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkOpenXCompatibility for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkSystemEnvironment for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkDatabaseEnvironment for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _runScript for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkDependenciesForInstallOrEnable for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkFiles for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkNavigationCheckers for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _checkMenus for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerSchema for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerPreferences for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerSettings for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing disableComponentGroup for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _registerPluginVersion for oxMemcached
+Jul 12 11:58:55 +0000 OX-plugins-66911a7eed8de [     info]  Executing _runScript for oxMemcached
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  starting _checkPackageContents openXInvocationTags.xml
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  expecting definition openXInvocationTags.xml
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  detected group definition file /plugins/etc/oxInvocationTags/oxInvocationTags.xml
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  detected plugin definition file /plugins/etc/openXInvocationTags.xml
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkOpenXCompatibility for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkSystemEnvironment for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkDatabaseEnvironment for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _runScript for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkDependenciesForInstallOrEnable for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkFiles for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkNavigationCheckers for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _checkMenus for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _registerSchema for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _registerPreferences for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _registerSettings for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing disableComponentGroup for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _registerPluginVersion for oxInvocationTags
+Jul 12 11:58:57 +0000 OX-plugins-66911a8191413 [     info]  Executing _runScript for oxInvocationTags
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  starting _checkPackageContents openXDeliveryLog.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  expecting definition openXDeliveryLog.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected group definition file /plugins/etc/oxLogImpression/oxLogImpression.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected group definition file /plugins/etc/oxDeliveryDataPrepare/oxDeliveryDataPrepare.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected plugin definition file /plugins/etc/openXDeliveryLog.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected group definition file /plugins/etc/oxLogConversion/oxLogConversion.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected group definition file /plugins/etc/oxLogRequest/oxLogRequest.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  detected group definition file /plugins/etc/oxLogClick/oxLogClick.xml
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkOpenXCompatibility for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkSystemEnvironment for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDatabaseEnvironment for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkFiles for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkNavigationCheckers for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkMenus for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSchema for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPreferences for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSettings for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing disableComponentGroup for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPluginVersion for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxDeliveryDataPrepare
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkOpenXCompatibility for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkSystemEnvironment for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDatabaseEnvironment for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkFiles for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkNavigationCheckers for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkMenus for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSchema for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPreferences for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSettings for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing disableComponentGroup for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPluginVersion for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogClick
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkOpenXCompatibility for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkSystemEnvironment for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDatabaseEnvironment for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkFiles for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkNavigationCheckers for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkMenus for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSchema for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPreferences for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSettings for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing disableComponentGroup for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPluginVersion for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogConversion
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkOpenXCompatibility for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkSystemEnvironment for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDatabaseEnvironment for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkFiles for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkNavigationCheckers for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkMenus for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSchema for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPreferences for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSettings for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing disableComponentGroup for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPluginVersion for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogImpression
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkOpenXCompatibility for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkSystemEnvironment for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDatabaseEnvironment for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkFiles for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkNavigationCheckers for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _checkMenus for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSchema for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPreferences for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerSettings for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing disableComponentGroup for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _registerPluginVersion for oxLogRequest
+Jul 12 11:59:00 +0000 OX-plugins-66911a843556b [     info]  Executing _runScript for oxLogRequest
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  starting _checkPackageContents openXVideoAds.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  expecting definition openXVideoAds.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected group definition file /plugins/etc/videoReport/videoReport.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected plugin definition file /plugins/etc/openXVideoAds.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected group definition file /plugins/etc/oxLogVast/oxLogVast.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected group definition file /plugins/etc/vastServeVideoPlayer/vastServeVideoPlayer.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected group definition file /plugins/etc/vastOverlayBannerTypeHtml/vastOverlayBannerTypeHtml.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  detected group definition file /plugins/etc/vastInlineBannerTypeHtml/vastInlineBannerTypeHtml.xml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkOpenXCompatibility for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkSystemEnvironment for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDatabaseEnvironment for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDependenciesForInstallOrEnable for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkFiles for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkNavigationCheckers for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkMenus for vastInlineBannerTypeHtml
+Jul 12 11:59:03 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSchema for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPreferences for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSettings for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing disableComponentGroup for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPluginVersion for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkOpenXCompatibility for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkSystemEnvironment for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDatabaseEnvironment for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDependenciesForInstallOrEnable for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkFiles for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkNavigationCheckers for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkMenus for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSchema for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPreferences for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSettings for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing disableComponentGroup for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPluginVersion for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkOpenXCompatibility for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkSystemEnvironment for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDatabaseEnvironment for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkFiles for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkNavigationCheckers for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkMenus for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSchema for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPreferences for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSettings for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing disableComponentGroup for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPluginVersion for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for oxLogVast
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkOpenXCompatibility for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkSystemEnvironment for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDatabaseEnvironment for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDependenciesForInstallOrEnable for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkFiles for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkNavigationCheckers for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkMenus for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSchema for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPreferences for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSettings for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing disableComponentGroup for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPluginVersion for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for vastServeVideoPlayer
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkOpenXCompatibility for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkSystemEnvironment for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDatabaseEnvironment for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkDependenciesForInstallOrEnable for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkFiles for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkNavigationCheckers for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _checkMenus for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSchema for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPreferences for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerSettings for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing disableComponentGroup for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _registerPluginVersion for videoReport
+Jul 12 11:59:04 +0000 OX-plugins-66911a87ebf61 [     info]  Executing _runScript for videoReport
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  starting _checkPackageContents reviveMaxMindGeoIP2.xml
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  expecting definition reviveMaxMindGeoIP2.xml
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  detected plugin definition file /plugins/etc/reviveMaxMindGeoIP2.xml
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2Maintenance/rvMaxMindGeoIP2Maintenance.xml
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2/rvMaxMindGeoIP2.xml
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _runScript for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkFiles for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkMenus for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerSchema for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerPreferences for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerSettings for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _runScript for rvMaxMindGeoIP2
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkFiles for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _checkMenus for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerSchema for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerPreferences for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerSettings for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:06 +0000 OX-plugins-66911a8aaffc9 [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+Jul 12 11:59:07 +0000 OX-plugins-66911a8aaffc9 [  warning]  An error occurred trying to download the latest GeoIP2 database: Client error: `GET https://download.maxmind.com/geoip/databases/GeoLite2-City/download?suffix=tar.gz.md5` resulted in a `401 Unauthorized` response:
+An account ID and license key are required to use this service.
+
+
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  starting _checkPackageContents apVideo.xml
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  expecting definition apVideo.xml
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  detected group definition file /plugins/etc/apVideo/apVideo.xml
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  detected group definition file /plugins/etc/apVideoUI/apVideoUI.xml
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  detected plugin definition file /plugins/etc/apVideo.xml
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkOpenXCompatibility for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkSystemEnvironment for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkDatabaseEnvironment for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _runScript for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkFiles for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkNavigationCheckers for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkMenus for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerSchema for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerPreferences for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerSettings for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing disableComponentGroup for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerPluginVersion for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _runScript for apVideo
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkOpenXCompatibility for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkSystemEnvironment for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkDatabaseEnvironment for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _runScript for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkFiles for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkNavigationCheckers for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _checkMenus for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerSchema for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerPreferences for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerSettings for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing disableComponentGroup for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _registerPluginVersion for apVideoUI
+Jul 12 11:59:09 +0000 OX-plugins-66911a8dac1e8 [     info]  Executing _runScript for apVideoUI
